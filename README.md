@@ -1,16 +1,41 @@
-# profile_app_
+# Personal Profile Page
 
-A new Flutter project.
+## Description
 
-## Getting Started
+A modern Flutter mobile application showcasing my professional profile with interactive elements and smooth animations.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Profile picture display** with animated entrance and circular border
+- **Personal information section** showing name, role, and location
+- **Contact details** with clickable email button
+- **Skills/interests showcase** in organized categories with icons
+- **Interactive element** - Theme switcher (dark/light mode) with persistent preferences
+- **Bottom navigation** for easy access to different sections
+- **Smooth animations** throughout the app for better user experience
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(Add screenshots of your app here)
+
+## How to Run
+
+1. Clone the repository
+2. Run `flutter pub get`
+3. Run `flutter run`
+
+## Challenges Faced
+
+- Implementing smooth navigation between screens while maintaining bottom navigation state
+- Creating consistent theming across the entire application
+- Managing state for dark/light mode preferences
+- Handling image loading errors gracefully
+
+## What I Learned
+
+- State management using Provider pattern
+- Navigation and routing in Flutter
+- Animation techniques with AnimationController
+- Theme customization and persistence
+- Responsive UI design principles
+- Widget composition and reusability
