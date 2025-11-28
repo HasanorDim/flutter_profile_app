@@ -38,8 +38,8 @@ A modern Flutter mobile application showcasing my professional profile with inte
 | Light Mode                                     | Dark Mode                                       |
 | ---------------------------------------------- | ----------------------------------------------- |
 | <img src="screenshots/image.png" width="200">  | <img src="screenshots/image8.png" width="200">  |
-| <img src="screenshots/image4.png" width="200"> | <img src="screenshots/imagE9.png" width="200">  |
-| <img src="screenshots/image5.png" width="200"> | <img src="screenshots/imagE10.png" width="200"> |
+| <img src="screenshots/image4.png" width="200"> | <img src="screenshots/image9.png" width="200">  |
+| <img src="screenshots/image5.png" width="200"> | <img src="screenshots/image10.png" width="200"> |
 
 ## How to Run
 
