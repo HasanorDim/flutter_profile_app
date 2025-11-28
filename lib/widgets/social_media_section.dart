@@ -1,18 +1,18 @@
 import 'package:flutter/material.dart';
 import 'package:profile_app_/model/user_profile.dart';
-import 'package:url_launcher/url_launcher.dart';
+// import 'package:url_launcher/url_launcher.dart';
 
 class SocialMediaSection extends StatelessWidget {
   final List<SocialMedia> socialMedia;
 
   const SocialMediaSection({super.key, required this.socialMedia});
 
-  Future<void> _launchURL(String url) async {
-    final Uri uri = Uri.parse(url);
-    if (await canLaunchUrl(uri)) {
-      await launchUrl(uri);
-    }
-  }
+  // Future<void> _launchURL(String url) async {
+  //   final Uri uri = Uri.parse(url);
+  //   if (await canLaunchUrl(uri)) {
+  //     await launchUrl(uri);
+  //   }
+  // }
 
   @override
   Widget build(BuildContext context) {
