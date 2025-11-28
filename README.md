@@ -16,9 +16,30 @@ A modern Flutter mobile application showcasing my professional profile with inte
 
 ## Screenshots
 
-# Before:
+| Profile                                        |                                                |
+| ---------------------------------------------- | ---------------------------------------------- |
+| <img src="screenshots/image.png" width="200">  | <img src="screenshots/image1.png" width="200"> |
+| <img src="screenshots/image2.png" width="200"> | <img src="screenshots/image3.png" width="200"> |
 
-# After:
+## When Bottom NavBar Clicked
+
+| Experience Section                             | Interests Section                              |
+| ---------------------------------------------- | ---------------------------------------------- |
+| <img src="screenshots/image4.png" width="200"> | <img src="screenshots/image5.png" width="200"> |
+
+# Interactive element Image
+
+| Before                                         | After                                          |
+| ---------------------------------------------- | ---------------------------------------------- |
+| <img src="screenshots/image6.png" width="200"> | <img src="screenshots/image7.png" width="200"> |
+
+## DarkMode
+
+| Light Mode                                     | Dark Mode                                       |
+| ---------------------------------------------- | ----------------------------------------------- |
+| <img src="screenshots/image.png" width="200">  | <img src="screenshots/image8.png" width="200">  |
+| <img src="screenshots/image4.png" width="200"> | <img src="screenshots/imagE9.png" width="200">  |
+| <img src="screenshots/image5.png" width="200"> | <img src="screenshots/imagE10.png" width="200"> |
 
 ## How to Run
 
@@ -32,6 +53,7 @@ A modern Flutter mobile application showcasing my professional profile with inte
 - Creating consistent theming across the entire application
 - Managing state for dark/light mode preferences
 - Handling image loading errors gracefully
+- Layouting the interface it is so confusing
 
 ## What I Learned
 
@@ -41,3 +63,4 @@ A modern Flutter mobile application showcasing my professional profile with inte
 - Theme customization and persistence
 - Responsive UI design principles
 - Widget composition and reusability
+- How to use the layout design and functions
